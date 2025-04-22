@@ -1,4 +1,6 @@
 # Touch-slide-keyboard
+<img width="701" alt="Screenshot 2025-04-22 at 12 50 08 PM" src="https://github.com/user-attachments/assets/4065d466-c905-4f54-a05c-2a25b9534410" />
+
 This is an attempt to create a cheap version of SeaBoard, monofonic, slide, capacitive touch version.
 
 It uses a custom PCB of my design, which might have to be changed.
