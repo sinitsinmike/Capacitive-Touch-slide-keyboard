@@ -20,6 +20,8 @@ Keyboard's sensitivity also depends on other things, like:
 1. Computer plugged in wall outlet vs disconnected from wall outlet.
 2. Proximity of devices that emitt electromagnetic field.
 3. Proximity of large metallic objects.
+
+From my experience, the easiest way of uploading an *.ino file is using Arduino IDE.
    
 
 This project is free to use for non commercial perposes.
