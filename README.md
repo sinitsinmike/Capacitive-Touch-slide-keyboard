@@ -3,7 +3,7 @@
 
 <img width="696" alt="Screenshot 2025-04-22 at 4 04 23 PM" src="https://github.com/user-attachments/assets/923b9770-6675-46e0-9069-eded0ac1653d" />
 
-This is an attempt to create a cheap version of SeaBoard, monofonic, slide, capacitive touch version.
+This is an attempt to create a cheap version of SeaBoard, monofonic, slide, glide, capacitive touch version.
 It has 24 notes / 2 octaves.
 It is mostly intended for playing virtual instruments of ethnic kind, where slides and glides are the main characteristics of sound.
 
