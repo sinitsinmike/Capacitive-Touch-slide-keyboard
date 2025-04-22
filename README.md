@@ -21,9 +21,10 @@ PCB_NEW_PCB_2025-04-22.json is an EasyEDA PCB file.
 Also attaching an archive with gerber files. But be aware, that this is a project in progress, so before orderring PCBs, you have to be aware that currently some notes false trigger due to environment and electromagnetic fields of many kinds. 
 Keyboard's sensitivity also depends on other things, like:
 1. Computer connected to wall outlet vs disconnected from wall outlet.
-2. Proximity of devices that emitt electromagnetic field.
+2. Proximity of devices that emit electromagnetic field.
 3. Proximity of large metallic objects.
-4. Playing on metal table will not work. Playing on a table with metal railings is not a good idea as well, as those metal poles would act as antennas.
+4. Wearing rubber slippers also makes a difference in sensitivity. :)
+5. Playing on metal table will not work. Playing on a table with metal railings is not a good idea as well, as those metal poles would act as antennas.
 
 From my experience, the easiest way to upload an *.ino file is to use Arduino IDE.
    
