@@ -1,7 +1,5 @@
 // Arduino Based Continuous MIDI controller
 // Code by: Abhilash Patel
-// Contact: abhilashpatel121@gmail.com
-// More details on the project available at: 
 
 
 #include <CapacitiveSensor.h>
