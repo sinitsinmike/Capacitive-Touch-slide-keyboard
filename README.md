@@ -18,7 +18,7 @@ Depending on chosen connection type, serial speed has to be adjusted in the code
 This is based on CH340G ATmega2560-16AU board which is inexpencive and has lots of IO pins.
 
 PCB_NEW_PCB_2025-04-22.json is an EasyEDA PCB file. 
-Also including an archive with gerber files. But be aware, that this is a project in progress, so before orderring PCBs, you have to be aware that currently some notes false trigger due to environment and electromagnetic fields of many kinds. 
+Also attaching an archive with gerber files. But be aware, that this is a project in progress, so before orderring PCBs, you have to be aware that currently some notes false trigger due to environment and electromagnetic fields of many kinds. 
 Keyboard's sensitivity also depends on other things, like:
 1. Computer connected to wall outlet vs disconnected from wall outlet.
 2. Proximity of devices that emitt electromagnetic field.
