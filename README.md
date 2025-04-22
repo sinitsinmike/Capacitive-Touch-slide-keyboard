@@ -25,3 +25,8 @@ From my experience, the easiest way of uploading an *.ino file is using Arduino 
    
 
 This project is free to use for non commercial perposes.
+
+https://www.youtube.com/watch?v=N2WDr5IA7VM
+https://www.youtube.com/watch?v=tIamUhcm8pE
+
+
