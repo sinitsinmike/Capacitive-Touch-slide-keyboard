@@ -1,4 +1,4 @@
-# Touuch-slide-keyboard
+# Touch-slide-keyboard
 This is an attempt to create a cheap version of SeaBoard, monofonic, slide, capacitive touch version.
 It uses a custom PCB of my design, which might have to be changed.
 As this is capacitive touch keyboard, it is prone to statics, and electromagtetic fields of any sort.
