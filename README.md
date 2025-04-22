@@ -1,6 +1,8 @@
 # Touch-slide-keyboard
 <img width="701" alt="Screenshot 2025-04-22 at 12 50 08 PM" src="https://github.com/user-attachments/assets/4065d466-c905-4f54-a05c-2a25b9534410" />
 
+<img width="696" alt="Screenshot 2025-04-22 at 4 04 23 PM" src="https://github.com/user-attachments/assets/923b9770-6675-46e0-9069-eded0ac1653d" />
+
 This is an attempt to create a cheap version of SeaBoard, monofonic, slide, capacitive touch version.
 It has 24 notes / 2 octaves.
 It is mostly intended for playing virtual instruments of ethnic kind, where slides and glides are the main characteristics of sound.
