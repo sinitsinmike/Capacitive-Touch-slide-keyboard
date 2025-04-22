@@ -25,7 +25,7 @@ Keyboard's sensitivity also depends on other things, like:
 3. Proximity of large metallic objects.
 4. Playing on metal table will not work. Playing on a table with metal railings is not a good idea as well, as those metal poles would act as antennas.
 
-From my experience, the easiest way of uploading an *.ino file is using Arduino IDE.
+From my experience, the easiest way to upload an *.ino file is to use Arduino IDE.
    
 
 This project is free to use for non commercial purposes.
