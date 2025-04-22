@@ -24,7 +24,7 @@ Keyboard's sensitivity also depends on other things, like:
 From my experience, the easiest way of uploading an *.ino file is using Arduino IDE.
    
 
-This project is free to use for non commercial perposes.
+This project is free to use for non commercial purposes.
 
 https://www.youtube.com/watch?v=N2WDr5IA7VM
 
