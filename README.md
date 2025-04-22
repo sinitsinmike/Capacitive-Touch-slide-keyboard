@@ -35,3 +35,7 @@ https://www.youtube.com/watch?v=N2WDr5IA7VM
 https://www.youtube.com/watch?v=tIamUhcm8pE
 
 
+If you ever try to improve the PCB design, please drop me a line and a PCB design file, I'd love to see what you've done.
+sinitsinmike@yahoo.com
+
+
